@@ -1,5 +1,5 @@
 {
-    "doctors": [
+    "doctors": {
         {
             "doctorOne": {
                 "name": "harshith",
@@ -20,5 +20,5 @@
                 "id": "1"
             }
         }
-    ]
+}    
 }
