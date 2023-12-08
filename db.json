@@ -1,4 +1,5 @@
-"doctors":{
+{
+    "doctors":[{
     "doctorOne": [{ 
         "name": "harshith",
         "salary": "4000000",
@@ -16,4 +17,6 @@
         "specialization": "cardio",
         "id": "1"
     }]
+}]
+
 }
