@@ -1,5 +1,5 @@
 {
-    doctorOne: [
+    "doctorOne": [
     {
     "name": "harshith",
     "salary": "4000000",
@@ -9,7 +9,7 @@
     "id": 1
       }
     ],
-      doctorTwo: [{
+      "doctorTwo": [{
     "name": "Teja",
     "salary": "7000000",
     "gender": "Male",
@@ -17,7 +17,7 @@
     "specialization": "Muscles",
     "id": 2
   }],
-      doctorThree:[{
+      "doctorThree":[{
     "name": "Sam",
     "salary": "4000000",
     "gender": "Male",
@@ -25,7 +25,7 @@
     "specialization": "Bones",
     "id": 3
   }],
-      doctorFour[{
+      "doctorFour":[{
     "name": "Anu",
     "salary": "7000000",
     "gender": "Male",
