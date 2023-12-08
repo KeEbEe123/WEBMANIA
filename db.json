@@ -15,6 +15,22 @@
             "age": "18",
             "answer": "Experience travel like never before with RideConnect! This user-friendly website offers a diverse range of transportation options, making trip planning a breeze. Reliable, efficient, and highly recommended for wanderlust seekers!",
             "id": "2"
+        },
+        {
+            "name": "Vaibhav",
+            "trip": "Assam",
+            "gender": "Male",
+            "age": "18",
+            "answer": "RideConnect redefines travel convenience. Streamlined booking, diverse transport options, and a user-friendly interface make journey planning a joy. Trustworthy and efficient—a must-visit site for seamless travel experiences!" ,
+            "id": "3"
+        },
+        {
+            "name": "Harshit",
+            "trip": "Dubai",
+            "gender": "Male",
+            "age": "19",
+            "answer": "RideConnect exceeds expectations in travel planning. With its intuitive interface and diverse transport choices, it transforms the journey into a hassle-free adventure. An essential companion for every explorer's itinerary!" ,
+            "id": "4"
         }
     ]
 }
