@@ -1,52 +1,20 @@
 {
-    "doctors": [
+    "reviews": [
         {
-            "name": "Dr.Chopper",
-            "salary": "1000",
+            "name": "Aditya Kumar",
+            "trip": "Hawaii",
             "gender": "Male",
             "age": "17",
-            "specialization": "Everything",
+            "answer": "RideConnect is a game-changer for travel enthusiasts! Seamless booking, reliable transportation options, and user-friendly interface. Effortlessly plan your journey with this innovative travel platform. Highly recommended!" ,
             "id": "1"
         },
         {
-            "name": "Dr.Harshith",
-            "salary": "100000",
+            "name": "Keertan Kuppili",
+            "trip": "shimla",
             "gender": "Male",
-            "age": "23",
-            "specialization": "Neuro",
+            "age": "18",
+            "answer": "Experience travel like never before with RideConnect! This user-friendly website offers a diverse range of transportation options, making trip planning a breeze. Reliable, efficient, and highly recommended for wanderlust seekers!",
             "id": "2"
-        },
-        {
-            "name": "Dr.Keerthan",
-            "salary": "200000",
-            "gender": "Male",
-            "age": "21",
-            "specialization": "Cardio",
-            "id": "3"
-        },
-        {
-            "name": "Dr.Vaibhav",
-            "salary": "150000",
-            "gender": "Male",
-            "age": "22",
-            "specialization": "Blood",
-            "id": "4"
-        },
-        {
-            "name": "Dr.Aditya",
-            "salary": "150000",
-            "gender": "Male",
-            "age": "25",
-            "specialization": "Skin",
-            "id": "5"
-        },
-        {
-            "name": "Dr.Roshan",
-            "salary": "175000",
-            "gender": "Male",
-            "age": "30",
-            "specialization": "Kidney",
-            "id": "6"
         }
     ]
 }
