@@ -1,11 +1,10 @@
 {
     "doctorOne": [{ 
-    "name": "harshith",
-    "salary": "4000000",
-    "gender": "Male",
-    "age": "26",
-    "specialization": "cardio",
-    "id":"1"
-   
-      }]
+        "name": "harshith",
+        "salary": "4000000",
+        "gender": "Male",
+        "age": "26",
+        "specialization": "cardio",
+        "id": "1"
+    }]
 }
