@@ -1,6 +1,5 @@
 {
-    "doctors": {
-        {
+    "doctors": [
             "doctorOne": {
                 "name": "harshith",
                 "salary": "4000000",
@@ -8,9 +7,8 @@
                 "age": "26",
                 "specialization": "cardio",
                 "id": "1"
-            }
-        },
-        {
+            },
+        
             "doctorTwo": {
                 "name": "harshith",
                 "salary": "4000000",
@@ -19,6 +17,5 @@
                 "specialization": "cardio",
                 "id": "1"
             }
-        }
-}    
+            ]
 }
