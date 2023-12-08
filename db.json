@@ -1,5 +1,5 @@
-{
-    "doctorOne": [
+
+    "doctorOne": 
     {
     "name": "harshith",
     "salary": "4000000",
@@ -8,35 +8,4 @@
     "specialization": "cardio",
     "id": 1
       }
-    ],
-      "doctorTwo": [
-    {
-    "name": "Teja",
-    "salary": "7000000",
-    "gender": "Male",
-    "age": "26",
-    "specialization": "Muscles",
-    "id": 2
-  }
-      ],
-      "doctorThree":[
-    {
-    "name": "Sam",
-    "salary": "4000000",
-    "gender": "Male",
-    "age": "26",
-    "specialization": "Bones",
-    "id": 3
-  }
-      ],
-      "doctorFour":[
-    {
-    "name": "Anu",
-    "salary": "7000000",
-    "gender": "Male",
-    "age": "26",
-    "specialization": "Blood Pressure"
-    }
-      ]
 
-}
