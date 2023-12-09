@@ -34,7 +34,7 @@
         }
     ],
     "credentials" : [{
-        "userName" : "keertan.k@gmail.com"
+        "userName" : "keertan.k@gmail.com",
         "pass": "123456"
     }]
 }
